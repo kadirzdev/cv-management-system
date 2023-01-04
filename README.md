@@ -17,6 +17,12 @@ ALL GUI SCREENS CHANGED BY TEAM DECISION AND WE ADDED MISSING PAGES.
 
 Here example views from new GUI:
 
-![alt text](https://kadirz.com/college/1.jpeg)
+![Screen 1](https://kadirz.com/college/1.jpeg)
+
+![Screen 2](https://kadirz.com/college/1.jpeg)
+
+![Screen 3](https://kadirz.com/college/1.jpeg)
+
+![Screen 4](https://kadirz.com/college/1.jpeg)
 
 
