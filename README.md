@@ -1,3 +1,11 @@
 # SAYWE - Resume Management CV
 
 ## How to install
+
+* Download the .exe file to your computer. This can usually be done by clicking on a download link on DOWNLOAD HERE
+
+* Locate the .exe file on your computer. This is typically done by using the "Downloads" folder or by using the "Search" function in Windows to find the file.
+
+* Double-click on the .exe file to start the installation process. You may be prompted to choose a location for the installation and to select some options. Follow the prompts to complete the installation.
+
+* Once the installation is complete, you should be able to find the program by searching for it in the Start menu or by accessing it from the list of installed programs in the Control Panel.
