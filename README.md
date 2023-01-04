@@ -19,10 +19,10 @@ Here example views from new GUI:
 
 ![Screen 1](https://kadirz.com/college/1.jpeg)
 
-![Screen 2](https://kadirz.com/college/1.jpeg)
+![Screen 2](https://kadirz.com/college/2.jpeg)
 
-![Screen 3](https://kadirz.com/college/1.jpeg)
+![Screen 3](https://kadirz.com/college/3.jpeg)
 
-![Screen 4](https://kadirz.com/college/1.jpeg)
+![Screen 4](https://kadirz.com/college/4.jpeg)
 
 
