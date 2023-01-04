@@ -11,6 +11,9 @@
 * Once the installation is complete, you should be able to find the program by searching for it in the Start menu or by accessing it from the list of installed programs in the Control Panel.
 
 ## Changelog
+THERE IS NO CHANGELOG SINCE IT'S INITIAL RELEASE.
+
+But there is some significant changes on development stage we willing to notify.
 
 ### GUI
 ALL GUI SCREENS CHANGED BY TEAM DECISION AND WE ADDED MISSING PAGES.
