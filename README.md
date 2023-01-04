@@ -1,3 +1,3 @@
 # SAYWE - Resume Management CV
 
-## How to install?
+## How to install
