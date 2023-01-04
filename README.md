@@ -9,3 +9,14 @@
 * Double-click on the .exe file to start the installation process. You may be prompted to choose a location for the installation and to select some options. Follow the prompts to complete the installation.
 
 * Once the installation is complete, you should be able to find the program by searching for it in the Start menu or by accessing it from the list of installed programs in the Control Panel.
+
+## Changelog
+
+### GUI
+ALL GUI SCREENS CHANGED BY TEAM DECISION AND WE ADDED MISSING PAGES.
+
+Here example views from new GUI:
+
+![alt text](https://kadirz.com/college/1.jpeg)
+
+
